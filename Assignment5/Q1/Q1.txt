@@ -1,0 +1,17 @@
+1. 
+
+The program will keep printing space saperated integers from 0 to 255 over and over again infinitely.
+
+2. 
+
+#0#1#2#3#4#5#6###
+
+3.
+
+A B C D E 
+A B C D 
+A B C 
+A B 
+A 
+
+
